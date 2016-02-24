@@ -5,11 +5,11 @@ date: 2016-02-07 14:57:51 -0500
 categories: fashion photoshoot stella sneak peek 
 author: "Shoots Official"
 authorTwitter: "@shootsofficial"
-shareImage: 'http://shootsofficial.github.io/assets/images/shoots-1.1-jasonhargrove-stella-bracelets-braids.jpeg'
+shareImage: 'http://shootsofficial.com/shootsofficial.assets/images/dorothy-sneak-peak.jpg'
 shareDescription: 'A young girl wears braids and a black and white dress from Anthropologie. On her wrists are bracelets made of rope.'
 ---
 
-<a href="http://shootsofficial.github.io/assets/images/shoots-1.1-jasonhargrove-stella-bracelets-braids.jpeg">
+<a href="/fashion/photoshoot/stella/sneak/peek/2016/02/07/just-a-peek.html">
 	<img src="{{ page.shareImage }}"> 
 
 <!--more-->
