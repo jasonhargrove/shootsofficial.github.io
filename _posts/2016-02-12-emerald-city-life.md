@@ -5,18 +5,18 @@ date:   2016-02-12 11:30:31 -0500
 categories: fashion photoshoot stella emeraldcity dorothy 
 author: 'Shoots Official'
 authorTwitter: '@shootsofficial'
-shareImage: 'http://shootsofficial.com/shootsofficial.assets/images/shoots-emeraldcity-dorothy-jasonhargrove-scotchandsoda.jpeg'
+shareImage: 'http://shootsofficial.com/shootsofficial.assets/images/shoots-emeraldcity-dorothy-jasonhargrove-scotchandsoda.png'
 shareDescription: 'Emerald City Life. Reversible bomber jacket by Scotch & Soda. Mosaic blue necklace by Banana Republic.'
 ---
 
 ###The Wonderful World of Dorothy - Part II
 
 <a href="http://shootsofficial.com/fashion/photoshoot/stella/emeraldcity/dorothy/2016/02/12/emerald-city-life.html">
-	<img src="http://shootsofficial.com/shootsofficial.assets/images/shoots-emeraldcity-dorothy-jasonhargrove-scotchandsoda.jpeg">
+	<img src="http://shootsofficial.com/shootsofficial.assets/images/shoots-emeraldcity-dorothy-jasonhargrove-scotchandsoda.png">
 </a> 
 
 <a href="http://shootsofficial.com/fashion/photoshoot/stella/emeraldcity/dorothy/2016/02/12/emerald-city-life.html">
-	<img src="http://shootsofficial.com/shootsofficial.assets/images/shoots-emeraldcity-denim-jasonhargrove-scotchandsoda.jpeg">
+	<img src="http://shootsofficial.com/shootsofficial.assets/images/shoots-emeraldcity-denim-jasonhargrove-scotchandsoda.png">
 </a> 
 
 Scotch & Soda 🐉 🙌 💚
