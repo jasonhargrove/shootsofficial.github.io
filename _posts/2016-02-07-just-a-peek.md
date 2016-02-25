@@ -10,12 +10,12 @@ shareDescription: 'A young girl wears braids and a black and white dress from An
 ---
 
 <a href="/fashion/photoshoot/stella/sneak/peek/2016/02/07/just-a-peek.html">
-	<img src="{{ page.shareImage }}"> 
+	<img src="{{ page.shareImage }}">
+</a>
 
 <!--more-->
 
- Style & Photography: Jason Hargrove +  
- Model: Stella from Elite Toronto  
- Producers: Alanna Joanne & Maria Rubio  
- Hair & Makeup: Julia Crimson  
- 
+Style & Photography: Jason Hargrove +  
+Model: Stella from Elite Toronto  
+Producers: Alanna Joanne & Maria Rubio  
+Hair & Makeup: Julia Crimson  
