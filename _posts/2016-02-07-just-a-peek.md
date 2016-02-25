@@ -10,7 +10,8 @@ shareDescription: 'A young girl wears braids and a black and white dress from An
 ---
 
 <a href="/fashion/photoshoot/stella/sneak/peek/2016/02/07/just-a-peek.html">
-	<img src="{{ page.shareImage }}"> 
+	<img src="{{ page.shareImage }}">
+</a>
 
 <!--more-->
 
