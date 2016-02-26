@@ -2,7 +2,7 @@
 layout: post
 title:  "Loving these brands."
 date:   2016-02-26 12:00:51 -0500
-categories: fashion photoshoot refelction brands  
+categories: fashion photoshoot brands Scotch&Soda JohnFluevog BananaRepublic Gap OldNavy JoeFresh
 author: 'Shoots Official'
 authorTwitter: '@shootsofficial'
 shareImage: 'http://shootsofficial.com/shootsofficial.assets/images/shoots-style-john-fluevog-shoes.jpg'
