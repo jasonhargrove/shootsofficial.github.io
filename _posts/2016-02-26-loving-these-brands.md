@@ -17,10 +17,10 @@ Very ready for this shoot. And ahead of the game for our coming shoots. Also dis
 
 We're going to see about exploring that too. 
 
-<a href="http://shootsofficial.com/shootsofficial.assets/images/shoots-style-scotch-and-soda-maison-scotch.jpg">
+<a href="http://shootsofficial.com/fashion/photoshoot/brands/scotch&soda/johnfluevog/bananarepublic/gap/oldnavy/joefresh/2016/02/26/loving-these-brands.html">
   <img src="http://shootsofficial.com/shootsofficial.assets/images/shoots-style-scotch-and-soda-maison-scotch.jpg">
 </a> 
 
-<a href="http://shootsofficial.com/shootsofficial.assets/images/shoots-style-banana-republic-gap-old-navy.jpg">
+<a href="http://shootsofficial.com/fashion/photoshoot/brands/scotch&soda/johnfluevog/bananarepublic/gap/oldnavy/joefresh/2016/02/26/loving-these-brands.html">
   <img src="http://shootsofficial.com/shootsofficial.assets/images/shoots-style-banana-republic-gap-old-navy.jpg">
 </a> 
