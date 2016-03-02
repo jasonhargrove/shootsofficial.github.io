@@ -8,6 +8,6 @@ authorTwitter: "@shootsOfficial"
 shareImage: 'http://shootsofficial.com/shootsofficial.assets/images/never-a-button-chanel-text-cyan.png'
 ---
 
-<a href="http://shootsofficial.com/shootsofficial.assets/images/never-a-button-chanel-text-cyan.png">
+<a href="http://shootsofficial.com/typography/button/buttonhole/coco/chanel/2016/03/01/this-weeks-vibes.html">
   <img src="http://shootsofficial.com/shootsofficial.assets/images/never-a-button-chanel-text-cyan.png">
 </a> 
