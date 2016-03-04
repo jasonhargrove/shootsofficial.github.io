@@ -6,7 +6,7 @@ categories: johnfluevog dallas boots clubmonaco fashion
 author: "Shoots Official"
 authorTwitter: "@shootsOfficial"
 shareImage: 'http://shootsofficial.com/shootsofficial.assets/images/shoots-jasonhargrove-johnfluevog-dallas-clubmonaco.jpeg'
-shareDescription: 'Thank you John Fluevog!'
+shareDescription: 'We love this and wanted to share. Jason says there's something like 100 photos coming in the next few days. Thank you John Fluevog!'
 ---
 
 We love this and wanted to share. Jason says there's something like 100 photos coming in the next few days. 

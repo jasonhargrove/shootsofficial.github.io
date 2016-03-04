@@ -6,7 +6,7 @@ categories: editing photos fashion
 author: "Shoots Official"
 authorTwitter: "@shootsOfficial"
 shareImage: 'http://shootsofficial.com/shootsofficial.assets/images/shoots-jasonhargrove-breanna-sneak-peek.jpg'
-shareDescription: 'Editing photos!'
+shareDescription: 'Editing photos. Editing Photos. Editing So Many Photos. Going to drop a few dozen all at once. Hey, we got this!'
 ---
 
 Editing Photos  
