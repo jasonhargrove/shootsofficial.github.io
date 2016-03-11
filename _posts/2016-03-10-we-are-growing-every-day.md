@@ -15,7 +15,7 @@ Excited to collaborate with [Matthew](https://www.instagram.com/matthewdoeshair/
   <img src="http://shootsofficial.com/shootsofficial.assets/images/shoot-1.2-jasonhargrove-breanna-scotch-soda-growing-every-day.jpg">
 </a> 
 
-**Breanna wears**:
+**Breanna is wearing**:
 
 Silky Bomber Jacket in Colour Combo A by [Scotch & Soda](https://www.scotch-soda.com/global/en/home)  
 Photo Printed Top in Colour Combo A by [Scotch & Soda](https://www.scotch-soda.com/global/en/home)  
