@@ -15,11 +15,10 @@ More details coming soon.
 
 <!--more-->
 
-Designer: [Steven Lejambe](https://www.instagram.com/stevenlejambe/)  
-Model: [Victoria Kristine](http://www.plutinogroup.com/models/women/victoria-kristine/portfolio) (Plutino Group)  
-Photography: Jason Hargrove +   
-Style and Accessories: Jason Hargrove  
-Set Design Assistant: Melissa MacKichan  
-MUA: Julia Crimson  
-Hair: Alex Topp  
-Producer: Alanna Joanne  
+Photographer: Jason Hargrove +
+Model: [Victoria Kristine](http://www.plutinogroup.com/models/women/victoria-kristine/portfolio) from Plutino Group
+Hair: Alex Topp from Medulla & Co.
+Makeup: Julia Crimson
+Producer: Alanna Joanne
+Creative Direction, Style, Accessories: Jason Hargrove
+ 
