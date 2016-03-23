@@ -6,7 +6,7 @@ categories: shoot 1.33 meditation masseni shoots fashion hayleyelsaesser scotcha
 author: "Shoots Official"
 authorTwitter: "@shootsOfficial"
 shareImage: 'http://shootsofficial.com/shootsofficial.assets/images/shoots-official-1.33-jasonhargrove-masseni-meditation-4.jpg'
-shareDescription: "Sneak Preview. NEW Toronto Designer Steven Lejambe and his first collection."
+shareDescription: "Masseni from Lang Models in sweater by Hayley Elsaesser, off white denim by Scotch & Soda and boots by John Fluevog."
 ---
 
 ![Masseni Meditation]({{ page.shareImage }})
